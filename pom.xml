@@ -13,6 +13,7 @@
         <module>convert-jackson-example</module>
         <module>convert-fastjson-example</module>
         <module>convert-mybatis-example</module>
+        <module>convert-datajpa-example</module>
     </modules>
 
     <properties>
